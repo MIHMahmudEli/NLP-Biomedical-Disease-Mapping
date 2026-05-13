@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+
+
+
+# Notebooks
+.ipynb_checkpoints/
+
+#ignore my code
+run_biobert_pipeline.py
+run_pipeline_step5_9.py
